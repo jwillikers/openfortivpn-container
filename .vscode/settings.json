@@ -1,7 +1,24 @@
 {
     "cSpell.words": [
+        "aarch",
+        "adoc",
+        "argparse",
+        "Asciidoctor",
+        "autoupdate",
         "Buildah",
+        "creds",
+        "fedoraproject",
+        "forticlient",
+        "ifdef",
+        "installroot",
+        "jwillikers",
+        "mkdir",
+        "mountpoint",
+        "openfortivpn",
+        "overlayfs",
         "Podman",
-        "openfortivpn"
+        "printf",
+        "releasever",
+        "Silverblue"
     ]
 }
